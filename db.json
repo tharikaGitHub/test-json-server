@@ -1,7 +1,5 @@
 {  
    "id":"0001",
-   "type":"donut",
-   "name":"Cake",
    "ppu":0.55,
    "batters":{  
       "batter":[  
@@ -18,19 +16,5 @@
             "type":"Blueberry"
          }
       ]
-   },
-   "topping":[  
-      {  
-         "id":"5001",
-         "type":"None"
-      },
-      {  
-         "id":"5002",
-         "type":"Glazed"
-      },
-      {  
-         "id":"5005",
-         "type":"Sugar"
-      }
-   ]
+   }
 }
