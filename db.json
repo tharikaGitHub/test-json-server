@@ -1,24 +1,11 @@
-{  
-   "batters":{  
-      "batter":[  
-         {  
-            "id":"1001",
-            "type":"Regular"
-         },
-         {  
-            "id":"1002",
-            "type":"Chocolate"
-         },
-         {  
-            "id":"1003",
-            "type":"Blueberry"
-         }
-      ]
-   },
-   "topping":[  
-      {  
-         "id":"5001",
-         "type":"None"
-      }
-   ]
+{
+    "users": [{
+        "id": 1,
+        "name": "roy",
+        "location": "india"
+    }, {
+        "id": 2,
+        "name": "sam",
+        "location": "wales"
+    }]
 }
