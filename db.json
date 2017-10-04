@@ -7,5 +7,10 @@
         "id": 2,
         "name": "sam",
         "location": "wales"
-    }]
+    }],
+    "groups": {
+        "id": 1,
+        "name": "group1",
+        "location": "uk_group"
+    }
 }
