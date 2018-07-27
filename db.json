@@ -1,12 +1,16 @@
 {
-    "users": [{
+    "locate": [{
         "id": 1,
-        "name": "roy",
-        "location": "india"
+        "name": "US cafe",
+        "address": "Smyrna, GA, USA"
     }, {
         "id": 2,
-        "name": "sam",
-        "location": "wales"
+        "name": "Cafe Rio",
+        "address": "Nuevo Laredo, Tamps., Mexico"
+    }, {
+        "id": 3,
+        "name": "Kerbay Lane Cafe - Round Rock",
+        "address": "Round Rock, TX, USA"
     }],
     "groups": {
         "id": 1,
