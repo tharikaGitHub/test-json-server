@@ -12,9 +12,22 @@
         "name": "Kerbay Lane Cafe - Round Rock",
         "address": "Round Rock, TX, USA"
     }],
-    "groups": {
+    "groups": [{
         "id": 1,
         "name": "group1",
         "location": "uk_group"
-    }
+    }, {
+        "id": 2,
+        "name": "group2",
+        "location": "us_group"
+    }],
+   "users": [{
+        "id": 1,
+        "name": "Andrew Smith",
+        "designation": "Software Engineer"
+    }, {
+        "id": 2,
+        "name": "Mac Peters",
+        "designation": "Software Architect"
+    }]
 }
